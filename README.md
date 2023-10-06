@@ -1,5 +1,7 @@
 # CLIPMatch
-<p>**CLIPMatch** is a gradio-based application that facilitates the exploration of specific visual content within a video by describing it in words. It employs the capabilities of OpenAI's CLIP model to analyze the similarity between video content and textual descriptions. Users can upload a video file and enter a text query, which then generates a similarity graph over time, making it possible to pinpoint the segments where the described content is most likely to appear.</p>
+<p><bold>CLIPMatch</bold> is a gradio-based application that facilitates the exploration of specific visual content within a video by describing it in words. It employs the capabilities of OpenAI's CLIP model to analyze the similarity between video content and textual descriptions. Users can upload a video file and enter a text query, which then generates a similarity graph over time, making it possible to pinpoint the segments where the described content is most likely to appear.</p>
+
+[![Watch the video](https://img.youtube.com/vi/r_7WYsTZWPA/0.jpg)](https://youtu.be/r_7WYsTZWPA)
 
 ## Features
 <ul>
@@ -43,6 +45,8 @@
   <ol>PIL (Pillow)</ol>
   <ol>tqdm</ol>
 </ul>
+
+
 
 
 
