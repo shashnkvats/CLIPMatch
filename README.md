@@ -24,7 +24,7 @@
   <li>Run the following command to launch the Gradio interface:</li>
 </ul>
 
-`python main.py`
+`python app.py`
 
 <ul>
   <li>Open the Gradio interface in your web browser (the URL will be displayed in the terminal).</li>
